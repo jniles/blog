@@ -11,6 +11,26 @@ author: Jonathan Niles
 language: en
 timezone: 'Africa/Kinshasa'
 
+# Extensions
+## Plugins: https://hexo.io/plugins/
+## Themes: https://hexo.io/themes/
+theme: cactus
+
+theme_config:
+  colorscheme: white
+
+projects_url: https://github.com/jniles
+
+social_links:
+  github: https://github.com/jniles
+  mail: jonathanwniles@gmail.com
+
+gravatar:
+  email: jonathanwniles@gmail.com
+
+copyright:
+  start_year: 2020
+
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://blog.niles.sh
@@ -89,25 +109,6 @@ include:
 exclude:
 ignore:
 
-# Extensions
-## Plugins: https://hexo.io/plugins/
-## Themes: https://hexo.io/themes/
-theme: cactus
-
-theme_config:
-  colorscheme: white
-
-projects_url: https://github.com/jniles
-
-social_links:
-  github: https://github.com/jniles
-  mail: jonathanwniles@gmail.com
-
-gravatar:
-  email: jonathanwniles@gmail.com
-
-copyright:
-  start_year: 2020
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
