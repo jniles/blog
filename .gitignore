@@ -7,3 +7,7 @@ public/
 source/_drafts/*
 .deploy*/
 .git
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*~
+
