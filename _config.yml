@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 'Workbook'
+title: 'Miscellanous Mindwanderings'
 subtitle: ''
 description: 'Notes on developing health and management solutions in the Democratic Republic of the Congo.'
 keywords: hospital management, programming, development, congo, accounting
@@ -98,17 +98,17 @@ theme: cactus
 theme_config:
   colorscheme: white
 
-social_links:
-  github: https://github.com/jniles
-  mail: jonathanwniles@gmail.com
+  social_links:
+    github: https://github.com/jniles
+    mail: jonathanwniles@gmail.com
 
-gravatar:
-  email: jonathanwniles@gmail.com
+  gravatar:
+    email: jonathanwniles@gmail.com
 
-copyright:
-  start_year: 2020
+  copyright:
+    start_year: 2020
 
-projects_url: https://github.com/jniles
+  projects_url: https://github.com/jniles
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
