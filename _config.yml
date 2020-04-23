@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 'Miscellanous Mindwanderings'
+title: 'Mwindu'
 subtitle: ''
-description: 'Notes on developing health and management solutions in the Democratic Republic of the Congo.'
-keywords: hospital management, programming, development, congo, accounting
+description: 'Notes on health and management solutions in the Democratic Republic of the Congo.'
+keywords: hospital management, programming, development, congo, accounting, drc
 author: Jonathan Niles
 language: en
 timezone: 'Africa/Kinshasa'
@@ -108,7 +108,11 @@ theme_config:
   copyright:
     start_year: 2020
 
-  projects_url: https://github.com/jniles
+  nav:
+    home: /
+    about: /about/
+    articles: /archives/
+    projects: https://github.com/jniles?tab=repositories
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
