@@ -4,12 +4,9 @@ date: 2020-04-25 09:51:47
 tags: bhima
 ---
 
-# What is BHIMA?
+I work on an open-source software project called [BHIMA](https://docs.bhi.ma).  We have tried to what BHIMA is [multiple](https://bhi.ma) [times](https://github.com/IMA-WorldHealth/bhima#project-goals).  Here I want to share my personal views on BHIMA, born from training managers and analyzing data generated from the software..
 
-I work on an open-source software project called [BHIMA](https://docs.bhi.ma).  We have tried to describe BHIMA [multiple](https://bhi.ma) [times](https://github.com/IMA-WorldHealth/bhima#project-goals), usually from a technical standpoint.  Here I want to share my personal experience using BHIMA, training others, and analyzing data generated in BHIMA.
-
-
-BHIMA is a _management multiplier_.  In my experience, the most rarest and most precious resource in a rural medical institution is good managerial capability.  Running BHIMA allows an institution to stretch their managerial resources as far as possible by enforcing the institution's policies on each transaction, providing detailed reports of the institution's activities, and linking data together to allow an administrator to quickly identify where problems occur and take actions addressing them.
+BHIMA is a **management multiplier**.  The rarest and most precious resource in a rural medical institution is good managerial capability.  Running BHIMA allows an institution to stretch their managerial resources as far as possible by enforcing the institution's policies on each transaction, providing detailed reports of the institution's activities, and linking data together to allow an administrator to quickly identify where problems occur and take actions addressing them.
 
 
 ## Challenges to Hospital Administration in the DRC
