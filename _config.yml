@@ -89,6 +89,11 @@ include:
 exclude:
 ignore:
 
+soundcloud:
+  visual: false
+  related: false
+  user: false
+
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
@@ -112,6 +117,7 @@ theme_config:
     home: /
     about: /about/
     articles: /archives/
+    Tracks: /tracks/
     projects: https://github.com/jniles?tab=repositories
 
 # Deployment

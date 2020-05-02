@@ -21,6 +21,7 @@
     "hexo-renderer-markdown-it": "^4.1.0",
     "hexo-renderer-stylus": "^1.1.0",
     "hexo-server": "^1.0.0",
+    "hexo-tag-soundcloud": "^1.0.2",
     "hexo-yam": "^4.1.0"
   }
 }

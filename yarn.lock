@@ -852,6 +852,11 @@ hexo-server@^1.0.0:
     open "^6.3.0"
     serve-static "^1.14.1"
 
+hexo-tag-soundcloud@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/hexo-tag-soundcloud/-/hexo-tag-soundcloud-1.0.2.tgz#bdd286e2376d20196c43b0722eb49b4498b3acc7"
+  integrity sha1-vdKG4jdtIBlsQ7ByLrSbRJizrMc=
+
 hexo-util@^1.4.0, hexo-util@^1.7.0, hexo-util@^1.8.0:
   version "1.9.0"
   resolved "https://registry.yarnpkg.com/hexo-util/-/hexo-util-1.9.0.tgz#0018429319720599253b2a3ddde0c5e4e4cfc652"
