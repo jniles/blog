@@ -1,7 +1,7 @@
 ---
 title: What is BHIMA?
 date: 2020-04-25 09:51:47
-tags: bhima
+tags: bhima, management
 ---
 
 I work on an open-source software project called [BHIMA](https://docs.bhi.ma).  We have tried to what BHIMA is [multiple](https://bhi.ma) [times](https://github.com/IMA-WorldHealth/bhima#project-goals).  Here I want to share my personal views on BHIMA, born from training managers and analyzing data generated from the software..
